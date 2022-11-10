@@ -21,7 +21,7 @@ myls() {
     fi
 }
 
-#colors table
+#Not enabled in the program ; does not work currently ; colors table
 
 # Reset
 Color_Off='\033[0m'       # Text Reset
@@ -36,7 +36,7 @@ Purple='\033[0;35m'       # Purple
 Cyan='\033[0;36m'         # Cyan
 White='\033[0;37m'        # White
 
-#putting it in a table
+#Same as before ; does not work ; putting it in a table
     echo "============================================="
     echo "=                                           ="
     echo "=                                           ="
